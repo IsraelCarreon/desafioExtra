@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(to left,
+        rgb(250, 57, 169), rgb(245, 145, 220), rgb(250, 57, 169));
+}
+
+.color{
+    color: blueviolet;
+}
